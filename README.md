@@ -3,7 +3,7 @@
 ### 🚀 About Me
 - 🔭 現在取り組んでいること: [基本情報技術者試験に向けて、学習中]
 - 🌱 現在学習中: [Java,Python,Go]
-- ⚡ 趣味: [ポーカー、運動、ゲーム、yt]
+- ⚡ 趣味: [ポーカー、運動、ゲーム、麻雀、yt]
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
