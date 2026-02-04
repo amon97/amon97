@@ -3,30 +3,35 @@ name: Update README Date
 on:
   push:
     branches:
-      - main  # 自分のメインブランチ名に合わせてください（masterならmasterに）
+      - main  # masterブランチを使っている場合は master に書き換えてください
 
 jobs:
   update-date:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # 書き込み権限を許可
+
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Get current date
         id: date
-        run: echo "DATE=$(date +'%Y-%m-%d %H:%M')" >> $GITHUB_ENV
+        # TZ=Asia/Tokyo を指定することで日本時間に設定します
+        run: echo "DATE=$(TZ=Asia/Tokyo date +'%Y-%m-%d %H:%M')" >> $GITHUB_ENV
 
       - name: Update README
+        env:
+          BADGE: "![Last Update](https://img.shields.io/badge/Last%20Updated-${{ env.DATE }}-blue?style=flat-square)"
         run: |
-          # 以前のバッジ行を削除し、特定のキーワードの後に新しいバッジを挿入する安全な方法
-          sed -i '//,//d' README.md
-          sed -i "/# Hi there/a \n![Last Update](https://img.shields.io/badge/Last%20Updated-${{ env.DATE }}-blue?style=flat-square)\n" README.md
-          
+          # sedの区切り文字を | にしてエラーを回避
+          sed -i "s|.*|${BADGE} |g" README.md
 
       - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "docs: update last updated date" || echo "No changes to commit"
+          # 変更がない場合にエラーにならないよう || echo を追加
+          git commit -m "docs: update last updated date (JST)" || echo "No changes to commit"
           git push
