@@ -15,7 +15,7 @@
   - 【栢木先生の基本情報技術者教室】: 100% 読了
   - 【アルゴリズム*疑似言語トレーニングブック(大滝本)】: 30%
 - **Programming**
-  - 『スッキリわかるJava入門』: 着手段階
+  - 【スッキリわかるJava入門】: 着手段階
 
 ### 🌐 Online Resources
   - [Progate](https://prog-8.com/) : 言語の基礎固め（Java, Python,SQL）
@@ -34,6 +34,11 @@
 
 
 ### 📖 My Story
+
+### 🚀 Future Roadmap
+  - Docker / Git などの開発環境への理解
+  - 基本情報技術者試験の合格 
+  -  
 
 <!--ここにnotionのリンク
 
