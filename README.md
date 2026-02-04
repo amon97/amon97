@@ -10,16 +10,16 @@
 - **Python** : クラス基礎編
 - **Go** : Ⅰ ~ Ⅱ 基礎修了
 
-### 📖 Books (Deep Dive)
+### 📖 Books
 - **基本情報技術者試験**
   - 【栢木先生の基本情報技術者教室】: 100% 読了
   - 【アルゴリズム*疑似言語トレーニングブック(大滝本)】: 30%
 - **Programming**
   - 『スッキリわかるJava入門』: 着手段階
 
-### 🌐 Online Resources & Books
+### 🌐 Online Resources
   - [Progate](https://prog-8.com/) : 言語の基礎固め（Java, Python,SQL）
-  - [基本情報技術者試験 過去問道場](https://www.fe-siken.com/) : 午前・午後対策
+  - [基本情報技術者試験 過去問道場](https://www.fe-siken.com/) : 基本情報技術者試験　午前・午後対策
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
