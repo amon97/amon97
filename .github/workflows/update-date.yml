@@ -18,7 +18,10 @@ jobs:
 
       - name: Update README
         run: |
-          sed -i "//,//c\\n![Last Update](https://img.shields.io/badge/Last%20Updated-${{ env.DATE }}-blue?style=flat-square)\n" README.md
+          # 以前のバッジ行を削除し、特定のキーワードの後に新しいバッジを挿入する安全な方法
+          sed -i '//,//d' README.md
+          sed -i "/# Hi there/a \n![Last Update](https://img.shields.io/badge/Last%20Updated-${{ env.DATE }}-blue?style=flat-square)\n" README.md
+          
 
       - name: Commit and Push
         run: |
