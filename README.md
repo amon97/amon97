@@ -19,7 +19,7 @@
 
 ### 🌐 Online Resources
 - [Progate](https://prog-8.com/) : 言語の基礎固め（Java, Python,SQL）
-- [基本情報技術者試験 過去問道場](https://www.fe-siken.com/) : 基本情報技術者試験　午前・午後対策
+- [基本情報技術者試験 過去問道場](https://www.fe-siken.com/) : 基本情報技術者試験　午前・午後対策　模試回数10回　模試平均70%
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
