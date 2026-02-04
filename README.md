@@ -8,8 +8,18 @@
 
 ### 📖 Learning Log
 | **Book** | かやのき先生の基本情報技術者 | 読了 |
+
+| **Book** | アルゴリズム*疑似言語トレーニングブック| 30% |
+
+| **過去問道場** | 科目A・B | 模試段階 |
+
 | **Progate** | Java Ⅰ ~ Ⅴ | 基礎修了 |
+
 | **Progate** | Go Ⅰ ~ Ⅱ | 基礎修了 |
+
+| **Progate** | Java | 応用着手 |
+
+
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
