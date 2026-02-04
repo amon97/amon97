@@ -11,7 +11,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ### 🎮 Hobbies
-[Poker記事](https://note.com/zoomagaaa/n/n14cb8c8726db)
+
 
 ### 📖 My Story
 <!--ここにnotionのリンク
