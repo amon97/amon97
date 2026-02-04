@@ -19,7 +19,7 @@
   - 『スッキリわかるJava入門』: 着手段階
 
 ### 🌐 Online Resources & Books
-  - [Progate](https://prog-8.com/) : 言語の基礎固め（Java, Python）
+  - [Progate](https://prog-8.com/) : 言語の基礎固め（Java, Python,SQL）
   - [基本情報技術者試験 過去問道場](https://www.fe-siken.com/) : 午前・午後対策
 
 ### 🛠 Tech Stack
@@ -27,6 +27,11 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ### 🎮 Hobbies
+![Poker](https://img.shields.io/badge/-Poker-E4405F?style=flat-square&logo=target&logoColor=white)
+![Exercise](https://img.shields.io/badge/-Exercise-4CAF50?style=flat-square&logo=strava&logoColor=white)
+![Gaming](https://img.shields.io/badge/-Gaming-111111?style=flat-square&logo=nintendo-switch&logoColor=white)
+![Mahjong](https://img.shields.io/badge/-Mahjong-FF1744?style=flat-square&logo=game-and-watch&logoColor=white)
+![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)
 
 
 ### 📖 My Story
