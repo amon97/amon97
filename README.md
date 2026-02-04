@@ -10,7 +10,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[自分のユーザー名]&show_icons=true&theme=radical)
+[Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[amon97]&show_icons=true&theme=radical)
 
 <!--
 **amon97/amon97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
