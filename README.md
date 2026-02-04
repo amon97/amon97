@@ -6,6 +6,11 @@
 - ⚡ 趣味: [ポーカー、運動、ゲーム、麻雀、yt]
 - ITの知識を1から深めるために基本情報技術者から学習しています。
 
+### 📖 Learning Log
+| **Book** | かやのき先生の基本情報技術者 | 読了 |
+| **Progate** | Java Ⅰ ~ Ⅴ | 基礎修了 |
+| **Progate** | Go Ⅰ ~ Ⅱ | 基礎修了 |
+
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
