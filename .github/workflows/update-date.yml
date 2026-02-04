@@ -18,7 +18,7 @@ jobs:
 
       - name: Update README
         run: |
-          sed -i "//,//c\\nLast Updated: ${{ env.DATE }}\n" README.md
+          sed -i "//,//c\\n![Last Update](https://img.shields.io/badge/Last%20Updated-${{ env.DATE }}-blue?style=flat-square)\n" README.md
 
       - name: Commit and Push
         run: |
