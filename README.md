@@ -12,6 +12,11 @@
 ### 📊 GitHub Stats
 [Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[amon97]&show_icons=true&theme=radical)
 
+### 🎮 Hobbies
+[Poker記事](https://note.com/zoomagaaa/n/n14cb8c8726db)
+
+
+![Visitor Count](https://profile-counter.glitch.me/【amon97】/count.svg)
 <!--
 **amon97/amon97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
