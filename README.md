@@ -40,7 +40,6 @@
 - AWS
 - TypeScript
 - React
-- 
 
 ### 📖 My Story
 <!--ここにnotionのリンク
