@@ -4,12 +4,12 @@
 - 現在取り組んでいること: [基本情報技術者取得に向けて、学習中]
 - 現在学習中言語: [Java,Python,Go]
 - ITの知識を1から深めるために基本情報技術者から学習しています。
-- 最近はverselを使ってVibeCodingを触ったりも
 
 ### 🖋 Progate
 - **Java** : 基礎からクラス・メソッド編
 - **Python** : クラス基礎編
 - **Go** : Ⅰ ~ Ⅱ 基礎修了
+- **JavaScript** : 着手
 
 ### 📖 Books
 - 【栢木先生の基本情報技術者教室】: 100% 読了
@@ -37,6 +37,10 @@
 - 開発領域の体系的な学習
 - SQL触る
 - VibeCodingで何か作る
+- AWS
+- TypeScript
+- React
+- 
 
 ### 📖 My Story
 <!--ここにnotionのリンク
