@@ -1,9 +1,10 @@
 # Hi there, I'm Amon 👋
 
 ### 🚀 About Me
-- 現在取り組んでいること: [基本情報技術者取得に向けて、学習中]
+- 現在取り組んでいること: [基本情報技術者の学習中]
 - 現在学習中言語: [Java,Python,Go]
-- ITの知識を1から深めるために1月から基本情報技術者から学習しています。(100h)
+- ITの知識を深めるために1月から基本情報技術者から学習しています。(100h)
+- 
 
 ### 🖋 Progate
 - **Java** : 基礎からクラス・メソッド編
@@ -30,16 +31,19 @@
 ![Gaming](https://img.shields.io/badge/-Gaming-111111?style=flat-square&logo=nintendo-switch&logoColor=white)
 ![Mahjong](https://img.shields.io/badge/-Mahjong-FF1744?style=flat-square&logo=game-and-watch&logoColor=white)
 ![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)
+個人開発(ゲーム、管理app、webサービス、ジャンル問わず)
 
 ### 🚀 Future Roadmap 今後学習したい内容&やりたいこと
 - Docker / Git などの開発環境への理解
-- 基本情報技術者試験の合格 模試平均80% + 科目Bの理解が進み次第試験受ける
+- 基本情報技術者試験を受けるかは不明
 - 開発領域の体系的な学習
 - SQL触る
 - VibeCodingで何か作る
 - AWS
 - TypeScript
 - React
+- 個人開発、チーム開発
+- 学習管理アプリのリリース
 
 ### 📖 My Story
 <!--ここにnotionのリンク
