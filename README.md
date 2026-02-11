@@ -1,9 +1,9 @@
 # Hi there, I'm Amon 👋
 
 ### 🚀 About Me
-- 現在取り組んでいること: [基本情報技術者の学習中]
+- 現在取り組んでいること: [知人の個人開発に参画中]
 - 現在学習中言語: [Java,Python,JavaScript]
-- ITの知識を深めるために1月から基本情報技術者から学習しています。(150h)
+- ITの知識を深めるために1月から基本情報技術者から学習しました。(150h)
 - 
 
 ### 🖋 Progate
@@ -12,16 +12,16 @@
 - **Go** : Ⅰ ~ Ⅱ 基礎修了
 - **JavaScript** : 着手
 
-- 大枠の理解が進めば早めに卒業する予定
+- 大枠の理解が進めばProgate早めに卒業する予定
 
 ### 📖 Books
 - 【栢木先生の基本情報技術者教室】: 100% 読了
 - 【アルゴリズム*疑似言語トレーニングブック(大滝本)】: 30%
-- 【スッキリわかるJava入門】: 着手段階
 
 ### 🌐 Online Resources
 - [Progate](https://prog-8.com/) : 言語の基礎固め（Java, Python,SQL,js）
 - [基本情報技術者試験 過去問道場](https://www.fe-siken.com/) : 基本情報技術者試験　午前・午後対策　模試回数10回　模試平均70%
+- [Qiita](https://qiita.com/)
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
