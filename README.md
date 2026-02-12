@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 - 現在取り組んでいること: [個人開発]
-- 現在学習中言語: [Java,Python,JavaScript,vibe coding]
+- 現在学習中: [VibeCoding.AntiGravity.開発フロー]
 - ITの知識を深めるために1月から基本情報技術者から学習しました。(150h)
 
 ### 🖋 Progate
@@ -11,7 +11,7 @@
 - **Go** : Ⅰ ~ Ⅱ 基礎修了
 - **JavaScript** : 着手
 
-- 大枠の理解が進めばProgate早めに卒業する予定
+- 大枠の理解が進めばProgateは早めに卒業する予定(今月まで)
 
 ### 📖 Books
 - 【栢木先生の基本情報技術者教室】: 100% 読了
