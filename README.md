@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 - 現在取り組んでいること: [個人開発]
-- 現在学習中: [VibeCoding.AntiGravity.開発フロー]
+- 現在学習中: [VibeCoding,AntiGravity,開発フロー]
 - ITの知識を深めるために1月から基本情報技術者から学習しました。(150h)
 
 ### 🖋 Progate
@@ -15,7 +15,7 @@
 
 ### 📖 Books
 - 【栢木先生の基本情報技術者教室】: 100% 読了
-- 【アルゴリズム*疑似言語トレーニングブック(大滝本)】: 30%
+- 【アルゴリズム*疑似言語トレーニングブック(大滝本)】: 100% 読了
 
 ### 🌐 Online Resources
 - [Progate](https://prog-8.com/) : 言語の基礎固め（Java, Python,SQL,js）
