@@ -2,9 +2,8 @@
 
 ### 🚀 About Me
 - 現在取り組んでいること: [個人開発]
-- 現在学習中言語: [Java,Python,JavaScript]
+- 現在学習中言語: [Java,Python,JavaScript,vibe coding]
 - ITの知識を深めるために1月から基本情報技術者から学習しました。(150h)
-- 
 
 ### 🖋 Progate
 - **Java** : 基礎からクラス・メソッド編
