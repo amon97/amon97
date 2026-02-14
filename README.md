@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 - 現在取り組んでいること: [個人開発]
-- 現在学習中: [VibeCoding,AntiGravity,開発フロー]
+- 現在学習中: [VibeCoding,開発フロー]
 - ITの知識を深めるために1月から基本情報技術者から学習しました。(150h)
 
 ### 🖋 Progate
