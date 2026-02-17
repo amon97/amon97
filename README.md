@@ -36,7 +36,7 @@
 - TypeScript
 - React
 - 個人開発、チーム開発
-- 学習管理アプリのリリース
+- webappのリリース
 
 ### 📖 My Story
 <!--ここにnotionのリンク
