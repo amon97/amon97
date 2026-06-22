@@ -20,7 +20,6 @@
 ![Gaming](https://img.shields.io/badge/-Gaming-111111?style=flat-square&logo=nintendo-switch&logoColor=white)
 ![Mahjong](https://img.shields.io/badge/-Mahjong-FF1744?style=flat-square&logo=game-and-watch&logoColor=white)
 ![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)
-個人開発(ゲーム、管理app、webサービス、ジャンル問わず)
 
 ### 🚀 Future Roadmap 今後学習したい内容&やりたいこと
 - Docker / Git などの開発環境への理解
