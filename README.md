@@ -1,7 +1,7 @@
 # Hi there, I'm Amon 👋
 
 ### 🚀 About Me
-- 現在取り組んでいること: []
+- 現在取り組んでいること: [kaggle ポケカAI Battle]
 - 現在学習中: []
 
 ### 📖 Books
@@ -22,15 +22,8 @@
 ![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)
 
 ### 🚀 Future Roadmap 今後学習したい内容&やりたいこと
-- Docker / Git などの開発環境への理解
-- 基本情報技術者試験を受けるかは不明
-- 開発領域の体系的な学習
-- SQL触る
-- VibeCodingで何か作る
-- AWS
 - TypeScript
 - React
-- 個人開発、チーム開発
 - webappのリリース
 
 ### 📖 My Story
